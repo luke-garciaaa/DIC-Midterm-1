@@ -1,0 +1,10 @@
+C:\Users\lukeg\source\repos\DIC Actual Midterm 1\obj\Debug\DIC Actual Midterm 1.csprojAssemblyReference.cache
+C:\Users\lukeg\source\repos\DIC Actual Midterm 1\obj\Debug\DIC_Actual_Midterm_1.Form1.resources
+C:\Users\lukeg\source\repos\DIC Actual Midterm 1\obj\Debug\DIC_Actual_Midterm_1.Properties.Resources.resources
+C:\Users\lukeg\source\repos\DIC Actual Midterm 1\obj\Debug\DIC Actual Midterm 1.csproj.GenerateResource.cache
+C:\Users\lukeg\source\repos\DIC Actual Midterm 1\obj\Debug\DIC Actual Midterm 1.csproj.CoreCompileInputs.cache
+C:\Users\lukeg\source\repos\DIC Actual Midterm 1\bin\Debug\DIC Actual Midterm 1.exe.config
+C:\Users\lukeg\source\repos\DIC Actual Midterm 1\bin\Debug\DIC Actual Midterm 1.exe
+C:\Users\lukeg\source\repos\DIC Actual Midterm 1\bin\Debug\DIC Actual Midterm 1.pdb
+C:\Users\lukeg\source\repos\DIC Actual Midterm 1\obj\Debug\DIC Actual Midterm 1.exe
+C:\Users\lukeg\source\repos\DIC Actual Midterm 1\obj\Debug\DIC Actual Midterm 1.pdb
